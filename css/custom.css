@@ -54,9 +54,20 @@ p {
   height: 50px;
 }
 
-.empa {
+.linkempa {
   color: #ef3b3e;
+  text-decoration: none;
 }
+
+.linkempa:hover {
+  color: #b22c2e;
+  text-decoration: none;
+}
+
+/*.linkempa:visited {
+  color: #b22c2e;
+  text-decoration: none;
+}*/
 
 .quote {
   margin-bottom: 6vw;
@@ -75,4 +86,22 @@ img {
   z-index: 99;
   text-transform: uppercase;
   color: #ef3b3e;
+}
+
+.subtitle2 {
+  font-size: calc(15px + 1vw);
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  z-index: 99;
+  text-transform: uppercase;
+  color: #ef3b3e;
+}
+
+.border-left {
+  border-left: 22px solid  #ef3b3e;
+}
+
+li {
+  color: #ef3b3e;
+  line-height: 1.5em;
 }
