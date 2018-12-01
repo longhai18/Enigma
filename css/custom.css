@@ -1,5 +1,15 @@
+/*Change highlight text color*/
+::selection {
+  background: #f77677; /* WebKit/Blink Browsers */
+  color: white;
+}
+::-moz-selection {
+  background: #f77677; /* Gecko Browsers */
+  color: white;
+}
+
 body {
-  background-color: #111419;
+  background-color: #0c0e11;
   line-height: 33px;
 }
 
@@ -91,10 +101,11 @@ img {
 .subtitle2 {
   font-size: calc(15px + 1vw);
   font-family: 'Roboto', sans-serif;
-  font-weight: bold;
+  font-weight: 700;
   z-index: 99;
   text-transform: uppercase;
   color: #ef3b3e;
+  line-height: 1.3em;
 }
 
 .border-left {
