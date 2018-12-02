@@ -116,3 +116,8 @@ li {
   color: #ef3b3e;
   line-height: 1.5em;
 }
+
+ol li {
+  color: white;
+  line-height: 1.5em;
+}
