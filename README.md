@@ -1,2 +1,2 @@
 # Enigma
-This website is still under development.
+https://longhai18.github.io/Enigma/
