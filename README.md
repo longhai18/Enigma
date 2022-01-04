@@ -1,2 +1,2 @@
 # Enigma
-https://wonrax.github.io/Enigma/
+https://wonrax.github.io/hcmut-enigma/
